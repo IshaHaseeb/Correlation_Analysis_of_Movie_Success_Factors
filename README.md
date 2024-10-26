@@ -5,7 +5,7 @@ In this analysis, we explore the relationships between various factors that cont
 Using:
  1. pandas
  2. numpy
- 3. seabor
+ 3. seaborn
  4. matplotlib
 
 From the analysis, the following insights were drawn:
