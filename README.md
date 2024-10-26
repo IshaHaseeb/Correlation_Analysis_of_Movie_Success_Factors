@@ -14,6 +14,7 @@ From the analysis, the following insights were drawn:
     well-received by audiences.
  3.	Runtime and Gross/Score: While longer movies tend to have slightly higher revenues, the correlation with IMDb ratings is weaker, suggesting that runtime is not a primary determinant of a movie’s critical reception but may impact its 
     box office performance.
+
 These findings provide valuable insights into how different factors influence movie success, and can help stakeholders in the movie industry make data-driven decisions regarding production and marketing strategies.
 
 
